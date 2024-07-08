@@ -11,7 +11,7 @@ through generalized sharding.
 
 By encapsulating shard-routing logic, Vitess allows application code and
 database queries to remain agnostic to the distribution of data onto
-multiple shards. With Vitess, you can even split and merge shards as your needs
+multiple shards. With Vitess, you can even split and merge shards as your needs 
 grow, with an atomic cutover step that takes only a few seconds.
 
 Vitess has been a core component of YouTube's database infrastructure
